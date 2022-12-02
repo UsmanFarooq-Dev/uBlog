@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>Test Post</title>
+  <slug>test-post</slug>
+  <pubDate>2022-08-31T22:12:41.792Z</pubDate>
+  <lastModified>2022-08-31T23:28:09.034Z</lastModified>
+  <excerpt>Select, or build a comma separated list of keywords - to remove double the keyword. Select, or build a comma separated list of keywords - to remove double the keyword. Select, or build a comma separated list of keywords - to remove double the keyword.Select, or build a comma separated list of keywords - to remove double the keyword</excerpt>
+  <content>&lt;p&gt;Long&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>welcome</category>
+    <category>new post</category>
+    <category>new category</category>
+  </categories>
+  <tags>
+    <tag>new tag</tag>
+  </tags>
+  <comments>
+    <comment isAdmin="false" id="60caebd8-1262-4b55-99a8-4dcff0441e9f">
+      <author>Usman</author>
+      <email>marry@gmail.com</email>
+      <date>2022-08-31T23:26:10.744Z</date>
+      <content>Commenting here</content>
+    </comment>
+  </comments>
+</post>
